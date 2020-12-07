@@ -3,3 +3,22 @@
   float: left;
   margin-right: 5pt;
 }
+.odd{
+  float: right;
+  width: 120px;
+  margin-right: 5pt;
+}
+.even{
+  float: left;
+  width: 120px;
+  margin-left: 5pt;
+}
+html{
+  background-color: #a8bdd8;
+}
+h1{
+  color: rgb(0, 0, 0);
+}
+h2{
+  color:  rgb(0, 0, 0);
+}
