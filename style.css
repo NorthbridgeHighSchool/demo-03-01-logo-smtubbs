@@ -1,24 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&family=PT+Sans&display=swap');
+
 .logo {
   width: 120px;
   float: left;
-  margin-right: 5pt;
+  margin-right: 10pt;
 }
 .odd{
   float: right;
-  width: 120px;
-  margin-right: 5pt;
+  width: 200px;
+  margin-left: 6pt;
 }
 .even{
   float: left;
   width: 120px;
-  margin-left: 5pt;
+  margin-right: 5pt;
 }
 html{
-  background-color: #a8bdd8;
+  background-color: #9fb3cc;
 }
 h1{
-  color: rgb(0, 0, 0);
+  color: rgb(15, 48, 119);
+  font-family: "Open Sans", san-serif;
+  padding-bottom: 1px;
+  font-size: 30pt;
 }
 h2{
-  color:  rgb(0, 0, 0);
+  color:  rgb(15, 48, 119);
+  font-family: "PT Sans", sans-serif;
+  padding-top: 1px;
+  font-size: 20pt;
+}
+p{
+  color: rgb(39, 60, 90);
+  text-align: justify;
+  font-family: "PT Sans", sans-serif;
 }
